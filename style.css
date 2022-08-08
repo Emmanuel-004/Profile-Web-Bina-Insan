@@ -1,3 +1,7 @@
-.navbar {
-  background-color: #188266;
+body {
+  min-height: 3000px;
+}
+.jumbotron {
+  padding-top: 5rem;
+  min-height: 500px;
 }
