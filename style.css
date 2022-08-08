@@ -1,7 +1,15 @@
 body {
   min-height: 3000px;
 }
+
+.navbar {
+  font-family: 'montserrat', sans-serif;
+}
+
 .jumbotron {
   padding-top: 5rem;
-  min-height: 500px;
+  min-height: 720px;
+  background-image: url(Asset/Grading\ 1.jpg);
+  background-size: cover;
+  font-family: 'montserrat', sans-serif;
 }
