@@ -20,3 +20,20 @@ body {
   top: 50%;
   right: 5%;
 }
+
+.container {
+  padding-top: 5rem;
+}
+
+#tentangkami {
+  min-height: 720px;
+  background-color: white;
+}
+
+#sambutan {
+  min-height: 720px;
+}
+
+h4 {
+  text-align: justify;
+}
