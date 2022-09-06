@@ -1,6 +1,6 @@
 /* berita page */
 body {
-  min-height: 1500px;
+  min-height: 2000px;
   background-color: #188266;
 }
 
@@ -14,7 +14,6 @@ body {
 
 #berita {
   padding-top: 5rem;
-  min-height: 720px;
 }
 
 #carouselExampleIndicators {
