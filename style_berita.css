@@ -1,0 +1,23 @@
+/* berita page */
+body {
+  min-height: 1500px;
+  background-color: #188266;
+}
+
+.navbar {
+  font-family: 'montserrat', sans-serif;
+}
+
+.container {
+  padding-top: 5rem;
+}
+
+#berita {
+  padding-top: 5rem;
+  min-height: 720px;
+}
+
+#carouselExampleIndicators {
+  position: absolute;
+  left: 5rem;
+}
