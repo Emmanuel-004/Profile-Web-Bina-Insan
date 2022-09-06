@@ -37,3 +37,17 @@ body {
 h4 {
   text-align: justify;
 }
+
+#berita {
+  min-height: 720px;
+}
+#galeri {
+  min-height: 720px;
+}
+#Carousel {
+  padding-top: 3rem;
+}
+#carouselExampleCaptions {
+  position: absolute;
+  right: 220px;
+}
