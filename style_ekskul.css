@@ -1,0 +1,27 @@
+/* Ekskul page */
+body {
+    min-height: 2000px;
+    background-color: #188266;
+  }
+  
+  .navbar {
+    font-family: 'montserrat', sans-serif;
+  }
+  
+  .container {
+    padding-top: 5rem;
+  }
+  
+  #ekskul {
+    padding-top: 2rem;
+
+  }
+  #ekskul2 {
+    padding-top: 5rem;
+  }
+  
+  #Carousel {
+    padding-top: 2rem;
+
+  }
+  
