@@ -1,0 +1,10 @@
+body {
+  min-height: 1000px;
+  background-color: #188266;
+}
+.navbar {
+  font-family: 'montserrat', sans-serif;
+}
+.container {
+  padding-top: 5rem;
+}
