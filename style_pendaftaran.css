@@ -1,0 +1,34 @@
+/* berita page */
+body {
+    min-height: 2000px;
+    background-color: #188266;
+  }
+  
+  .navbar {
+    font-family: 'montserrat', sans-serif;
+  }
+  
+  .container {
+    padding-top: 5rem;
+  }
+  
+  #headline { 
+    padding-top: 5rem; 
+    font-family: 'montserrat', sans-serif;
+  }
+  
+  #headline2 {
+    padding-top: 20px;
+    font-family: 'montserrat', sans-serif;
+    }
+
+    #headline3 {
+        padding-top: 20px;
+        line-height: 40px;
+        padding-bottom: 20px;
+    }
+  #carouselExampleIndicators {
+    position: absolute;
+    left: 5rem;
+  }
+  

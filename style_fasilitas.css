@@ -1,0 +1,28 @@
+/* berita page */
+body {
+    min-height: 2000px;
+    background-color: #188266;
+  }
+  
+  .navbar {
+    font-family: 'montserrat', sans-serif;
+  }
+  
+  .container {
+    padding-top: 5rem;
+  }
+  
+  #judul { 
+    padding-top: 5rem; 
+    font-family: 'montserrat', sans-serif;
+  }
+  
+  #judul2 {
+    padding-top: 20px;
+    font-family: 'montserrat', sans-serif;
+    }
+  #carouselExampleIndicators {
+    position: absolute;
+    left: 5rem;
+  }
+  
